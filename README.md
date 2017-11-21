@@ -3,6 +3,8 @@ A Database to manage films rental.
 
 ## Instructions
 
--Open Visual Studio project;
+-Open Visual Studio project; 
+
 -Change DB path in program.cs;
--Enjoy it;
+
+-Enjoy it! 
