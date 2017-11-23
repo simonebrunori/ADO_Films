@@ -343,6 +343,7 @@
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "frmNoleggioFilm";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Noleggio Film";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.frmNoleggioFilm_FormClosed);
             this.Load += new System.EventHandler(this.frmNoleggioFilm_Load);

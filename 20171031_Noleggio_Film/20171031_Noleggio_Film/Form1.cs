@@ -23,12 +23,8 @@ namespace _20171031_Noleggio_Film
 
         private void frmLogin_Load(object sender, EventArgs e)
         {
+            txtPassword.UseSystemPasswordChar = true;
             clear();
-            /*********************************************/
-            /*---------TOGLIERE--------------------------*/
-            /*********************************************/
-            txtPassword.Text = "admin";
-            txtUtente.Text = "admin";
         }
         private void clear()
         {
@@ -82,6 +78,13 @@ namespace _20171031_Noleggio_Film
         private void frmLogin_FormClosed(object sender, FormClosedEventArgs e)
         {
             Application.Exit();
+        }
+
+        private void lblRegitra_Click(object sender, EventArgs e)
+        {
+            frmRegistra frm = new frmRegistra();
+            frm.Show();
+            this.Hide();
         }
     }
 }
