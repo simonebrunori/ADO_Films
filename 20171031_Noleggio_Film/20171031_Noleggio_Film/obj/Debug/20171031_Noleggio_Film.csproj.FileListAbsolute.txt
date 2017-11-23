@@ -64,15 +64,3 @@ D:\Scuola\Informatica\ESPERIENZA3.BRUNORI\ADO_Noleggio_Film (esperienza 3)\20171
 D:\Scuola\Informatica\ESPERIENZA3.BRUNORI\ADO_Noleggio_Film (esperienza 3)\20171031_Noleggio_Film\20171031_Noleggio_Film\obj\Debug\20171031_Noleggio_Film.csproj.GenerateResource.Cache
 D:\Scuola\Informatica\ESPERIENZA3.BRUNORI\ADO_Noleggio_Film (esperienza 3)\20171031_Noleggio_Film\20171031_Noleggio_Film\obj\Debug\20171031_Noleggio_Film.exe
 D:\Scuola\Informatica\ESPERIENZA3.BRUNORI\ADO_Noleggio_Film (esperienza 3)\20171031_Noleggio_Film\20171031_Noleggio_Film\obj\Debug\20171031_Noleggio_Film.pdb
-C:\Users\Simone\Desktop\ADO_Noleggio_Film (esperienza 3)\20171031_Noleggio_Film\20171031_Noleggio_Film\bin\Debug\20170929_FILM.accdb
-C:\Users\Simone\Desktop\ADO_Noleggio_Film (esperienza 3)\20171031_Noleggio_Film\20171031_Noleggio_Film\bin\Debug\20171031_Noleggio_Film.exe.config
-C:\Users\Simone\Desktop\ADO_Noleggio_Film (esperienza 3)\20171031_Noleggio_Film\20171031_Noleggio_Film\bin\Debug\20171031_Noleggio_Film.exe
-C:\Users\Simone\Desktop\ADO_Noleggio_Film (esperienza 3)\20171031_Noleggio_Film\20171031_Noleggio_Film\bin\Debug\20171031_Noleggio_Film.pdb
-C:\Users\Simone\Desktop\ADO_Noleggio_Film (esperienza 3)\20171031_Noleggio_Film\20171031_Noleggio_Film\obj\Debug\20171031_Noleggio_Film.csprojResolveAssemblyReference.cache
-C:\Users\Simone\Desktop\ADO_Noleggio_Film (esperienza 3)\20171031_Noleggio_Film\20171031_Noleggio_Film\obj\Debug\_20171031_Noleggio_Film.frmLogin.resources
-C:\Users\Simone\Desktop\ADO_Noleggio_Film (esperienza 3)\20171031_Noleggio_Film\20171031_Noleggio_Film\obj\Debug\_20171031_Noleggio_Film.frmNoleggioFilm.resources
-C:\Users\Simone\Desktop\ADO_Noleggio_Film (esperienza 3)\20171031_Noleggio_Film\20171031_Noleggio_Film\obj\Debug\_20171031_Noleggio_Film.frmRegistra.resources
-C:\Users\Simone\Desktop\ADO_Noleggio_Film (esperienza 3)\20171031_Noleggio_Film\20171031_Noleggio_Film\obj\Debug\_20171031_Noleggio_Film.Properties.Resources.resources
-C:\Users\Simone\Desktop\ADO_Noleggio_Film (esperienza 3)\20171031_Noleggio_Film\20171031_Noleggio_Film\obj\Debug\20171031_Noleggio_Film.csproj.GenerateResource.Cache
-C:\Users\Simone\Desktop\ADO_Noleggio_Film (esperienza 3)\20171031_Noleggio_Film\20171031_Noleggio_Film\obj\Debug\20171031_Noleggio_Film.exe
-C:\Users\Simone\Desktop\ADO_Noleggio_Film (esperienza 3)\20171031_Noleggio_Film\20171031_Noleggio_Film\obj\Debug\20171031_Noleggio_Film.pdb
